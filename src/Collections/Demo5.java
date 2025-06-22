@@ -23,7 +23,7 @@ public class Demo5 {
 		t2.add(e3);
 		t2.add(e4);
 		t2.add(e5);
-		System.out.println(t1);
+		System.out.println(t2);
 	}
 }
 class Employee implements Comparable{
