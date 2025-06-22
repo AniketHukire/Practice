@@ -1,5 +1,7 @@
 package StringProgram;
 
+
+
 final class CreateImmutable {
 	private int i;
 	CreateImmutable(int i)
